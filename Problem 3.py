@@ -1,9 +1,9 @@
-** PURPOSE: To find a path from node A to node G in the graph while looking out for nodes with lower heuristic values, as indicated by Greedy Best-First Search **
+** PURPOSE: To find a path from node A to node G in the graph while looking out for nodes with lower edge weights (actual distance), as indicated by Greedy Best-First Search **
 
 
 heuristic = {}   # initializes an empty dictionary to store heuristic values for each node in the graph.
 heuristic["A"] = 5  # Assigns a heuristic value of 5 to node "A.
-heuristic["B"] = float('inf') # of positive infinity to node "B." Node "B" is has an unknown heuristic value.
+heuristic["B"] = float('inf') # of positive infinity to node "B." Node "B" has an unknown heuristic value.
 heuristic["C"] = 4   # of 4 to node C
 heuristic["D"] = 3   # of 3 to node D
 heuristic["E"] = 3   # of 3 to node E

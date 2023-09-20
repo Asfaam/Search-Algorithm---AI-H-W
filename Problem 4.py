@@ -1,6 +1,6 @@
 ***  A* is an informed search algorithm that balances the cost of the path travelled so far with a heuristic estimate of the cost to reach the goal, guiding the search towards the most promising paths. It is specifically designed for finding the shortest path from a starting point (or node) to a goal point (or node) in a graph ***
 
-** PURPOSE: To perform an A* search to find the optimal path from node A to node G in the provided graph, considering both edge weights and heuristic values to estimate the cost of reaching the goal. It prints the optimal path if one exists or a message if no path is found.
+** PURPOSE: To perform an A* search to find the optimal path from node A to node G considering both edge weights(actual distance) and heuristic values to estimate the cost of reaching the goal. It prints the optimal path if one exists or a message if no path is found.
 
 heuristic = {}
 heuristic["A"] = 5
