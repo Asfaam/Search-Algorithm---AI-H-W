@@ -4,6 +4,6 @@
 
 2. I used the code provided by the lecturer on Canvas. AI Folder/Week 4/graph.zip/find_paths.py
 
-3. From problem 4, I used the heuristic here too.
+3. I consulted the slides from class, Codes on graph slide.From problem 4, I used the heuristic here too.
 
 4. Collaboration with peers, I borrowed some ideas  from this Youtube Video: https://youtu.be/birig65AP2A?si=8R2y1LxHsUCOUFrO
